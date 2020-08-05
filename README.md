@@ -9,7 +9,7 @@
 
 #### F Score is the sum of the G and H scores, read more about the A Star Search [here](https://brilliant.org/wiki/a-star-search/ "Brilliant.com explanation").
 
-I also went to page 9 google for algorithm guidance and used some of [this stackoverflow](https://stackoverflow.com/questions/49237582/variants-of-a-max-depth-multi-target-and-multi-path)
+##### I also went to page 9 google for algorithm guidance and used some of [this stackoverflow](https://stackoverflow.com/questions/49237582/variants-of-a-max-depth-multi-target-and-multi-path)
 ---
 ### Limitations and considerations.
 - This is an unfinished school project.
