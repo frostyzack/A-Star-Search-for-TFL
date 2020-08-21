@@ -81,5 +81,5 @@ def a_star_search(start_node, destination_node, graph):
             g_score[neighbour] = tentative_g_score
             f_score[neighbour] = g_score[neighbour] + eucledian_heuristic(neighbour, destination_node)
 
-Search = a_star_search(Tube_map.dgeware_road, Tube_map.south_kensington, Tube_map)
+Search = a_star_search(Tube_map.edgeware_road, Tube_map.south_kensington, Tube_map)
 print(Search)
